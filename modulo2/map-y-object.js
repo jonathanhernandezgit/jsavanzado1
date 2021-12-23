@@ -23,7 +23,7 @@ obj['valorKey3'] = 78;
 // }
 
 const keys = Object.keys(obj);
-//forma de iterar un objeto mediante forEach
+//forma de iterar un objeto mediante forEachcd 
 keys.forEach(key => {
     console.log(obj[key]);
 })

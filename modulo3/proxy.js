@@ -1,7 +1,7 @@
 //El objeto proxy se utiliza para definir un comportamiento. Se compone de:
 //handler (gestiona las intercepciones a las propiedades proxy), traps (métodos)
-//interceptores que proveen acceso a las propiedades. Target (Suele usarse)
-//como backend de almacenamiento de proxy
+//interceptores que proveen acceso a las propiedades. Target (Suele usarse
+//como backend de almacenamiento de proxy)
 
 
 const target = function (nombre, apellido) {
